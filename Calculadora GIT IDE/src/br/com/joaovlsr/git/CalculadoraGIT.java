@@ -14,7 +14,7 @@ public class CalculadoraGIT {
         double num1, num2, soma, subtracao, multi, divi;
 
         System.out.println("Insira um número: ");
-        num1 = in.nextInt();
+        num1 = in.nextInt(); 
 
 
     }
